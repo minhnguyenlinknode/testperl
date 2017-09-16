@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+# Note: 
+# This is for traveltek test
+# Created (c) by Minh Nguyen
+
 # Initial array pointer
 my  $refStructure = [ 
     { a => 1, b => 2, c => 3 }, 
